@@ -1,0 +1,20 @@
+[
+   {
+      "question": "A horizontal orificemeter inlet & orifice diameter are 32 cm and 14 cm respectively. The hm = 3 cm. The manometer fluid is mercury. Take cd = 0.94. water is flowing through pipe. Find discharge.",
+      "qid": 1,
+      "option_a": "37.32 lit/sec",
+      "option_b": "41.03 lit/sec",
+      "option_c": "40.14 lit/sec",
+      "option_d": "39.87 lit/sec",
+      "correct_option": "c"
+   },
+   {
+      "question": "A horizontal orificemeter inlet & orifice diameter are 26 cm and 15 cm respectively. The hm = 5 cm. The manometer fluid is mercury. Take cd = 0.94. water is flowing through pipe. Find discharge.",
+      "qid": 2,
+      "option_a": "61.93 lit/sec",
+      "option_b": "64.28 lit/sec",
+      "option_c": "57.21 lit/sec",
+      "option_d": "59.42 lit/sec",
+      "correct_option": "a"
+   }
+]
